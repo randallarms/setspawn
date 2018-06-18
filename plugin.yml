@@ -1,0 +1,16 @@
+name: SetSpawn
+main: com.kraken.setspawn.Main
+version: 1.0
+commands: 
+     spawn:
+        description: Controls the Set Spawn plugin.
+        usage: /<command> <argument>
+permissions:
+     spawn.*:
+        description: Permission for all Set Spawn commands.
+     spawn.spawn:
+        description: Permission for teleporting back to your default spawn by command.
+     spawn.nospawn:
+        description: Permission for preventing a player from teleporting to default spawn on death.
+     spawn.set:
+        description: Permission to set the main default spawn by commands.   

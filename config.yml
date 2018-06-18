@@ -1,0 +1,24 @@
+# ------------------------------------------------------
+# SET SPAWN Configuration File (config.yml)
+# 
+# Editing the settings in this file will change the way
+# Set Spawn works on your server. To reset this file to
+# its default values, simply delete your config.yml and
+# stop/restart your server.
+# ------------------------------------------------------
+#
+# LOADED MARKER | Dummy value to check against at start-up, don't change!
+loaded: true
+# 
+# ENABLED | If true, Set Spawn is in effect.
+enabled: true
+#
+# LANGUAGE | Currently supported languages: English only (for now!)
+language: English
+# 
+# SILENT MODE | If true, most messages will not be relayed to players.
+silentMode: false
+# 
+# PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic Set Spawn commands.
+permissions: false
+#
