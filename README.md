@@ -1,10 +1,6 @@
-#SETSPAWN
-
-by Kraken | https://github.com/randallarms/setspawn
+# SetSpawn
 
 Set spawn for your Minecraft world with a simple command. Multi-world support coming soon. Plugin for Bukkit on Minecraft 1.12!
-
-HOW TO INSTALL AND USE: https://www.spigotmc.org/resources/set-spawn.57863/
 
 Guides & plugin to be updated consistently! This plugin is far from complete, and represents an open-source, work-in-progress project.
 
