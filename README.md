@@ -9,6 +9,14 @@ commands:
      spawn:
         description: Controls the Set Spawn plugin.
         usage: /<command> <argument>
+        
+config:
+
+    LOADED MARKER | Dummy value to check against at start-up, don't change!
+    ENABLED | If true, Set Spawn is in effect.
+    LANGUAGE | Currently supported languages: English only (for now!)
+    SILENT MODE | If true, most messages will not be relayed to players.
+    PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic Set Spawn commands.
 
 Do you want to help us improve this plugin? You can! Everyone welcome to contribute on GitHub by utilizing the Flow to branch their own version, make changes (commits), and submit their changes as a "pull request" to be considered for merging with the master file.
 
