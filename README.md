@@ -17,6 +17,17 @@ config:
     LANGUAGE | Currently supported languages: English only (for now!)
     SILENT MODE | If true, most messages will not be relayed to players.
     PERMISSIONS REQUIREMENT | If true, players must have the proper permissions to use basic Set Spawn commands.
+    
+permissions:
+
+     spawn.*:
+        description: Permission for all Set Spawn commands.
+     spawn.spawn:
+        description: Permission for teleporting back to your default spawn by command.
+     spawn.nospawn:
+        description: Permission for preventing a player from teleporting to default spawn on death.
+     spawn.set:
+        description: Permission to set the main default spawn by commands.
 
 Do you want to help us improve this plugin? You can! Everyone welcome to contribute on GitHub by utilizing the Flow to branch their own version, make changes (commits), and submit their changes as a "pull request" to be considered for merging with the master file.
 
